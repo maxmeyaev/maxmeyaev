@@ -1,7 +1,7 @@
 ### Greetings, traveler 👋 I'm Max
 I'm a student majoring in Computer Science at Hunter College. Currently learning Web Development and sharpening my Data Structures and Algorithms skills.
 
-Skills: C++ / JS / HTML / CSS / Python
+Skills: C++ / JS / React.js/ HTML / CSS / Python
 
 
 
