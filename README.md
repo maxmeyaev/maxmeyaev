@@ -3,7 +3,7 @@ I'm a student majoring in Computer Science at Hunter College. Currently learning
 
 Skills: C++ / JS / React.js/ HTML / CSS / Python
 
-
+![Development](https://github.com/maxmeyaev/maxmeyaev/blob/main/banner1.png)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maxmeyaev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/maxnonchalant)  
 
