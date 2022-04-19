@@ -1,4 +1,4 @@
-![Development](https://github.com/maxmeyaev/maxmeyaev/blob/main/banner.png)
+![Development](https://github.com/maxmeyaev/maxmeyaev/blob/main/banner1.png)
 
 ### Greetings, traveler 👋 I'm Max
 I'm a student majoring in Computer Science at Hunter College. Currently learning Web Development and sharpening my Data Structures and Algorithms skills.
