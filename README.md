@@ -2,7 +2,8 @@
 I'm a student majoring in Computer Science at Hunter College. Currently learning Web Development and sharpening my Data Structures and Algorithms skills.
 
 ###Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ![Development](https://github.com/maxmeyaev/maxmeyaev/blob/main/banner1.png)
 
