@@ -4,7 +4,7 @@
 I'm a student majoring in Computer Science at Hunter College.
 
 ## Languages and Tools:
-[![](https://skillicons.dev/icons?i=js,python,cpp,react,html,css,mysql,figma,tailwind,git)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,python,cpp,react,html,css,mysql,figma,tailwind,git,vue)](https://skillicons.dev)
 
 ## Socials:
 
